@@ -51,7 +51,7 @@ Computer Science Engineering student with **1+ years of experience** in full-sta
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pranjalmaheshwari7)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranjal784)  
-📧 **Email:** pranjalmaheshwari@srmist.edu.in  
+📧 **Email:** pm4406@srmist.edu.in  
 
 ---
 ⭐ _Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations._
